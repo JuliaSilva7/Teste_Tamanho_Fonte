@@ -1,0 +1,18 @@
+:root{
+    font-family:Helvetica, sans-serif, sans-serif;
+}
+h1{
+    font-size: 1em;
+}
+#a{
+    font-size: 1rem;
+    
+}
+#b{
+    text-align: left;
+    font-size: 1rem;
+}
+#c{
+    text-align: left;
+    font-size: 16px;
+}
